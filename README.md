@@ -33,9 +33,9 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal-bhadra&count_private=true&show_icons=true)
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/kunal-bhadra)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-bhadra&exclude_repo=Unity-Games&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-bhadra&exclude_repo=Unity-Games&layout=compact)](https://github.com/kunal-bhadra)
 
 
 
