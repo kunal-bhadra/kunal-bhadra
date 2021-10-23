@@ -2,7 +2,7 @@
 ## 🙌 Hello, I am [Kunal](http://kunalbhadra.bio.link)!
 🏫 I'm a third year student pursuing my Bachelors in Computer Science & Communications Engineering, with an interest in everything Data & Product.
 
-👨‍💻 I am fascinated by Machine Learning, App Dev & I'm a quick learner when it comes to new domains.
+👨‍💻 I am fascinated by Machine Learning, Product Dev & I'm a quick learner when it comes to new domains.
 
 
 ## Highlights
