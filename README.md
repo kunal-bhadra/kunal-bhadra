@@ -13,20 +13,18 @@
 
 
 ## 🔍 What I'm working on
-1. Tweet Sentiment Analysis with VADER
-2. Product to help students connect faster
+1. Micro-projects with PyTorch
+2. HRC Training in Data & Web for Tech Track
 
 
 ## ✏ What I'm Learning
-1. Data Collection through APIs
-2. Dask Parallelization
-3. Product Design & Wireframing
+1. Deep Learning Course from Jovian.ai - Zero to GANs
+2. ML Fundamentals
 
 
 ## 🏐 Open to Collaborate on
-1. Research Papers on ML & NLP
-2. Projects on Computer Vision
-3. Building awesome products
+1. Projects in the domain of Fintech/NLP
+2. Anything you deem awesome!
 
 
 ## GitHub Stats
