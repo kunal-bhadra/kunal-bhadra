@@ -6,9 +6,9 @@
 
 
 ## Highlights
+- Product Head, [AIESEC Bhubaneswar](https://aiesec.org/) (02/2021 - 01/2022)
 - Batch 1, [Crework](https://crework.unicornplatform.page/) (07/2021 - 08/2021)
 - Data Science Intern, [Hobbiate](https://www.hobbiate.com/) (05/2021 - 06/2021)
-- Product Head, [AIESEC Bhubaneswar](https://aiesec.org/) (02/2021 - Present)
 - Product Manager, [AIESEC Bhubaneswar](https://aiesec.org/) (12/2019 - 01/2021)
 
 
