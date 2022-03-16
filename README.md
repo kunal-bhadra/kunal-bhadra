@@ -8,23 +8,21 @@
 ## Highlights
 - Data Science Intern, [Rebel Foods](https://www.rebelfoods.com/) (02/2022 - Present)
 - Local Product Manager, [AIESEC Bhubaneswar](https://aiesec.org/) (02/2021 - 01/2022)
-- Batch 1, [Crework](https://crework.unicornplatform.page/) (07/2021 - 08/2021)
 - Data Science Intern, [Hobbiate](https://www.hobbiate.com/) (05/2021 - 06/2021)
 - Project Coordinator, [AIESEC Bhubaneswar](https://aiesec.org/) (12/2019 - 01/2021)
 
 
 ## 🔍 What I'm working on
-1. Micro-projects with PyTorch
-2. HRC Training in Data & Web for Tech Track
+1. NLP & RecSys
 
 
 ## ✏ What I'm Learning
-1. Deep Learning Course from Jovian.ai - Zero to GANs
-2. ML Fundamentals
+1. NLP & RecSys
+2. Javascript & ReactJS
 
 
 ## 🏐 Open to Collaborate on
-1. Projects in the domain of Fintech/NLP
+1. Projects in the domain of NLP
 2. Anything you deem awesome!
 
 
