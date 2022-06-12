@@ -18,7 +18,6 @@
 
 ## ✏ What I'm Learning
 1. NLP & RecSys
-2. Javascript & ReactJS
 
 
 ## 🏐 Open to Collaborate on
