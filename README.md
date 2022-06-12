@@ -12,17 +12,13 @@
 - Project Coordinator, [AIESEC Bhubaneswar](https://aiesec.org/) (12/2019 - 01/2021)
 
 
-## 🔍 What I'm working on
-1. NLP & RecSys
-
-
-## ✏ What I'm Learning
-1. NLP & RecSys
+## 🔍 What I'm learning and working on
+- NLP & RecSys
 
 
 ## 🏐 Open to Collaborate on
-1. Projects in the domain of NLP
-2. Anything you deem awesome!
+- Projects in the domain of NLP
+- Anything you deem awesome!
 
 
 ## GitHub Stats
