@@ -6,7 +6,7 @@
 
 
 ## Highlights
-- Data Science Intern, [Rebel Foods](https://www.rebelfoods.com/) (02/2022 - Present)
+- Data Science Intern, [Rebel Foods](https://www.rebelfoods.com/) (02/2022 - 06/2022)
 - Local Product Manager, [AIESEC Bhubaneswar](https://aiesec.org/) (02/2021 - 01/2022)
 - Data Science Intern, [Hobbiate](https://www.hobbiate.com/) (05/2021 - 06/2021)
 - Project Coordinator, [AIESEC Bhubaneswar](https://aiesec.org/) (12/2019 - 01/2021)
