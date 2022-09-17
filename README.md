@@ -6,6 +6,7 @@
 
 
 ## Highlights
+- Data Science Intern, [PhonePe](https://www.phonepe.com/) (08/2022 - 02/2023)
 - Data Science Intern, [Rebel Foods](https://www.rebelfoods.com/) (02/2022 - 06/2022)
 - Local Product Manager, [AIESEC Bhubaneswar](https://aiesec.org/) (02/2021 - 01/2022)
 - Data Science Intern, [Hobbiate](https://www.hobbiate.com/) (05/2021 - 06/2021)
@@ -13,12 +14,12 @@
 
 
 ## 🔍 What I'm learning and working on
-- NLP & RecSys
+- Data Science
+- Backend
 
 
 ## 🏐 Open to Collaborate on
-- Projects in the domain of NLP
-- Anything you deem awesome!
+- Anything ML and Backend
 
 
 ## GitHub Stats
