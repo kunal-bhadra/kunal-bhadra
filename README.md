@@ -1,11 +1,12 @@
 
-## 🙌 Hello, I am [Kunal](http://kunalbhadra.bio.link)!
-🏫 I'm a third year student pursuing my Bachelors in Computer Science & Communications Engineering, with an interest in everything Data & Product.
+## 🙌 Hello, I am [Kunal](https://www.linkedin.com/in/kunal-bhadra-cs/)!
+🏫 I'm someone in my 20s with an interest in everything Data & Product.
 
 👨‍💻 I am fascinated by Machine Learning, Product Dev & I'm a quick learner when it comes to new domains.
 
 
 ## Highlights
+- Data Scientist, [PhonePe](https://www.phonepe.com/) (07/2023 - Present)
 - Data Science Intern, [PhonePe](https://www.phonepe.com/) (08/2022 - 06/2023)
 - Data Science Intern, [Rebel Foods](https://www.rebelfoods.com/) (02/2022 - 06/2022)
 - Local Product Manager, [AIESEC Bhubaneswar](https://aiesec.org/) (02/2021 - 01/2022)
